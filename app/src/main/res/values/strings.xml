@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Woofy</string>
+    <string name="welcome_txt">Hey!</string>
+    <string name="welcome_sub_txt">Pets are not different than hooomans :)</string>
+    <string name="getstarted">Get Started</string>
+    <string name="login_txt">Login</string>
+    <string name="reg_txt">Register</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="title_activity_feed">FeedActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>
